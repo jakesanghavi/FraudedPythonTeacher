@@ -15,5 +15,6 @@ NB 3 - <a href="https://colab.research.google.com/github/jakesanghavi/FraudedPyt
 NB 4 - <a href="https://colab.research.google.com/github/jakesanghavi/FraudedPythonTeacher/blob/main/4%20-%20Predicting%20With%20Models.ipynb" target="_blank">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a>
 
-^YOUR WORK WILL NOT BE SAVED B/W SESSIONS. THIS IS ONLY IF YOU CAN'T GET PYTHON SET UP!  
+^YOUR WORK WILL NOT BE SAVED B/W SESSIONS. THIS IS ONLY IF YOU CAN'T GET PYTHON SET UP!
+**YOU CAN COPY IT TO YOUR OWN GOOGLE DRIVE IN WHICH CASE I THINK IT SAVES FOR YOU**
 **SAVE YOUR WORK BETWEEN SESSIONS IF YOU USE THIS!!!**
