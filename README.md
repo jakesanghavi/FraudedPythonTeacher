@@ -1,6 +1,7 @@
 # FraudedPythonTeacher
 
 Clone the repo locally if you can or ask me for a .zip file of the whole thing. Otherwise use the below but heed the warning at the bottom
+If you do it locally, delete the lines with !wget they are useless (don't delete any starting with % tho)
 
 NB 1 - <a href="https://colab.research.google.com/github/jakesanghavi/FraudedPythonTeacher/blob/main/1%20-%20Basic%20Python%20Refresher.ipynb" target="_blank">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"></a>
